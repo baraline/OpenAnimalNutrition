@@ -11,3 +11,4 @@ TODOS:
     - unit tests
     - numpy docs
     - readme files
+    - support for health condition diet based on https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0354&rid=1
