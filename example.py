@@ -47,7 +47,7 @@ _MER = np.ceil(MER(weight, X))
 quantity_wet = np.ceil(((_MER * wet_p)/_ME_wet)*100)
 quantity_dry = np.ceil(((_MER * dry_p)/_ME_dry)*100)
 
-print("Cat ({} kg) target {} kcal/day:".format(weight, _MER))
+print("{} ({} kg) target {} kcal/day:".format(animal, weight, _MER))
 print("  - {} g Wet/day ".format(quantity_wet))
 print("  - {} g dry/day ".format(quantity_dry))
 
