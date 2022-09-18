@@ -1,0 +1,63 @@
+{
+    "Nutrient (Amount/1,000 kcal ME)":{
+        "Protein (g)":{
+            "total":50,
+            "Arginine":1.93,
+            "Histidine":0.65,
+            "Isoleucine":1.08,
+            "Leucine":2.55,
+            "Lysine":0.85,
+            "Methionine":0.43,
+            "Methionine + cystine":0.85,
+            "Phenylalanine":1.00,
+            "Phenylalanine + tyrosine":3.83,
+            "Threonine":1.30,
+            "Tryptophan":0.33,
+            "Valine":1.28,
+            "Taurine":0.10
+        },
+        "Fibers (g)":{
+            "total":-1
+        },
+        "Ashes (g)":{
+            "total":-1
+        },
+        "Humidity (g)":{
+            "total":-1
+        },
+        "Fat (g)":{
+            "total":22.5,
+            "Linoleic acid (omega 3)":1.4,
+            "Arachidonic acid (omega 6)":0.015,
+            "Eicosapentaenoic + docosahexaenoic acid":0.025
+        },
+        "Minerals (mg)":{
+            "Calcium":720,
+            "Phosphorus":640,
+            "Potassium":1300,
+            "Sodium":170,
+            "Chloride":240,
+            "Magnesium":100,
+            "Iron":20,
+            "Copper":1.2,
+            "Manganese":1.2,
+            "Zinc":18.5,
+            "Iodine":0.35,
+            "Selenium":0.075
+        },
+        "Vitamins (mg)":{
+            "Vitamin A (retinol equivalents)":250,
+            "Cholecalciferol":0.0175,
+            "Vitamin E (α-tocopherol)":10,
+            "Vitamin K (menadione)":0.25,
+            "Thiamine":1.4,
+            "Riboflavin":1.0,
+            "Pantothenic acid":1.44,
+            "Niacin":10.0,
+            "Pyridoxine":0.625,
+            "Folic acid":0.188,
+            "Vitamin B12":0.0056,
+            "Choline":637
+        }
+    }
+}
