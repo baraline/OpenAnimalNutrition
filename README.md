@@ -2,7 +2,7 @@
 
 TODOS:
     - input checks (animal parameter, json files)
-    - graphical interface (flask webapp)
+    - graphical interface
     - look for existing pet food DB
     - food quality evaluation (scoring)
     - diet scoring
