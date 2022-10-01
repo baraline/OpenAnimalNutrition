@@ -1,0 +1,63 @@
+{
+    "Composition per 100g":{
+        "Protein (g)":{
+            "total":14.4,
+            "Arginine":-1,
+            "Histidine":-1,
+            "Isoleucine":-1,
+            "Leucine":-1,
+            "Lysine":-1,
+            "Methionine":-1,
+            "Methionine + cystine":-1,
+            "Phenylalanine":-1,
+            "Phenylalanine + tyrosine":-1,
+            "Threonine":-1,
+            "Tryptophan":-1,
+            "Valine":-1,
+            "Taurine":-1
+        },
+        "Fibers (g)":{
+            "total":0.3
+        },
+        "Ashes (g)":{
+            "total":2.6
+        },
+        "Humidity (g)":{
+            "total":75
+        },
+        "Fat (g)":{
+            "total":5.6,
+            "Linoleic acid (omega 3)":-1,
+            "Arachidonic acid (omega 6)":-1,
+            "Eicosapentaenoic + docosahexaenoic acid":-1
+        },
+        "Minerals (mg)":{
+            "Calcium":-1,
+            "Phosphorus":-1,
+            "Potassium":-1,
+            "Sodium":-1,
+            "Chloride":-1,
+            "Magnesium":-1,
+            "Iron":-1,
+            "Copper":-1,
+            "Manganese":-1,
+            "Zinc":-1,
+            "Iodine":-1,
+            "Selenium":-1
+        },
+        "Vitamins (mg)":{
+            "Vitamin A (retinol equivalents)":-1,
+            "Cholecalciferol (D3)":-1,
+            "Vitamin E (α-tocopherol)":-1,
+            "Vitamin K (menadione)":-1,
+            "Thiamine":-1,
+            "Riboflavin":-1,
+            "Pantothenic acid":-1,
+            "Niacin":-1,
+            "Pyridoxine":-1,
+            "Folic acid":-1,
+            "Vitamin B12":-1,
+            "Choline":-1
+        }
+    }
+}

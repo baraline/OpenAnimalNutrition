@@ -1,54 +1,54 @@
 {
     "Composition per 100g":{
         "Protein (g)":{
-            "total":37,
+            "total":44,
             "Arginine":-1,
             "Histidine":-1,
             "Isoleucine":-1,
             "Leucine":-1,
             "Lysine":-1,
-            "Methionine":0.01,
+            "Methionine":-1,
             "Methionine + cystine":-1,
             "Phenylalanine":-1,
             "Phenylalanine + tyrosine":-1,
             "Threonine":-1,
             "Tryptophan":-1,
             "Valine":-1,
-            "Taurine":0.0128
+            "Taurine":-1
         },
         "Fibers (g)":{
-            "total":2.4
+            "total":1.8
         },
         "Ashes (g)":{
-            "total":7.5
+            "total":8.5
         },
         "Humidity (g)":{
-            "total":8
+            "total":9
         },
         "Fat (g)":{
-            "total":12,
-            "Linoleic acid (omega 3)":0.43,
-            "Arachidonic acid (omega 6)":2.22,
+            "total":20,
+            "Linoleic acid (omega 3)":0.9,
+            "Arachidonic acid (omega 6)":3.3,
             "Eicosapentaenoic + docosahexaenoic acid":-1
         },
         "Minerals (mg)":{
             "Calcium":1500,
-            "Phosphorus":1200,
+            "Phosphorus":1300,
             "Potassium":-1,
             "Sodium":-1,
             "Chloride":-1,
-            "Magnesium":90,
+            "Magnesium":-1,
             "Iron":-1,
-            "Copper":0.77,
-            "Manganese":3.5,
-            "Zinc":8.8,
-            "Iodine":0.1,
+            "Copper":-1,
+            "Manganese":-1,
+            "Zinc":-1,
+            "Iodine":-1,
             "Selenium":-1
         },
         "Vitamins (mg)":{
-            "Vitamin A (retinol equivalents)":6.0,
-            "Cholecalciferol (D3)":0.1725,
-            "Vitamin E (α-tocopherol)":25.5,
+            "Vitamin A (retinol equivalents)":-1,
+            "Cholecalciferol (D3)":-1,
+            "Vitamin E (α-tocopherol)":-1,
             "Vitamin K (menadione)":-1,
             "Thiamine":-1,
             "Riboflavin":-1,

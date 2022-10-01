@@ -25,8 +25,8 @@ is_neutered = True
 
 animal = Cat(weight,age,is_neutered,is_active)
 
-wet = read_json('input_data/food_catalog/cats/Animonda_Carny_Adult_meat_cocktail.json')['Composition per 100g']
-dry = read_json('input_data/food_catalog/cats/Eukanuba_Top_Condition_7+_Senior.json')['Composition per 100g']
+wet = read_json('input_data/food_catalog/cats/wet/Purizon_Adult_Chicken_fillet_with_salmon.json')['Composition per 100g']
+dry = read_json('input_data/food_catalog/cats/dry/Purizon_Adult_Chicken_with_fish.json')['Composition per 100g']
 
 #Percentage of total body mass to loose per week, going above 2 can cause health issues
 per_week_loss_percentage = 1.25
@@ -36,6 +36,7 @@ weight_loss_plan = WeightLossPlanner(
 ).plan_diet()
 
 # For weight loss
+print(weight_loss_plan)
 """
               Weight  Target kcal (ME)  Wet food (g) / day  Dry food (g) / day
 2022-09-22       5.5             239.0               115.0                33.0
@@ -59,7 +60,9 @@ weight_loss_plan = WeightLossPlanner(
 
 animal = Cat(target_weight, age, is_neutered, is_active)
 diet_plan = DietPlanner(animal, dry, wet, 0.5, 0.5).plan_diet()
+
 # For maintenance
+print(diet_plan)
 """
    Weight  Target kcal (ME)  Wet food (g) / day  Dry food (g) / day
 0     4.5             217.0               105.0                30.0
